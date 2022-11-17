@@ -1,5 +1,5 @@
 ---
-title: "Hey friends"
+title: "This is the first post on the Hugo!"
 date: 2022-11-17T13:06:21+06:00
 draft: false
 cover:
