@@ -1,0 +1,37 @@
+baseURL: ""
+languageCode: en-us
+title: Farkhad Dilman
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Hello Stranger'
+    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
+  socialIcons: 
+    - name: facebook
+      url: 'https://facebook.com/'
+    - name: whatsapp
+      url: 'https://facebook.com/'
+    - name: telegram
+      url: 'https://facebook.com/'
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+      
