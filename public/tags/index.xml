@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Farkhad Dilman</title>
-    <link>/tags/</link>
+    <link>//me.vmteam.kz/tags/</link>
     <description>Recent content in Tags on Farkhad Dilman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 13:06:21 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 13:06:21 +0600</lastBuildDate><atom:link href="//me.vmteam.kz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>//me.vmteam.kz/tags/css/</link>
       <pubDate>Thu, 17 Nov 2022 13:06:21 +0600</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>//me.vmteam.kz/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>//me.vmteam.kz/tags/html/</link>
       <pubDate>Thu, 17 Nov 2022 13:06:21 +0600</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>//me.vmteam.kz/tags/html/</guid>
       <description></description>
     </item>
     
