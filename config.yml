@@ -9,9 +9,9 @@ params:
     title: "<Title>" # optional default will be site title
     subtitle: "Designer, Coding enthusiast, Soon-to-be-Doctor."
     imageUrl: "img/profile.jpg" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageTitle: "Farkhad" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
     buttons:
       - name: Posts
         url: "/posts"
@@ -26,6 +26,8 @@ params:
       url: 'https://instagram.com/eddiexooo/'
     - name: telegram
       url: 'https://t.me/iodiqy/'
+
+  defaultTheme: light
 
   cover:
     linkFullImages: true
